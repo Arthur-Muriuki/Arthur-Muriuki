@@ -36,7 +36,7 @@ I turn technical challenges into elegant, production-ready solutions.<br>
 ![PHPUnit](https://img.shields.io/badge/phpunit-%236C3483.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-%46E3B7.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-%236C3483.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netflify-%46E3B7.svg?style=for-the-badge&logo=netlify&logoColor=white)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Arthur-Muriuki&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
