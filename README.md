@@ -38,12 +38,7 @@ I turn technical challenges into elegant, production-ready solutions.<br>
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-%236C3483.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netflify-%46E3B7.svg?style=for-the-badge&logo=netlify&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Arthur-Muriuki&theme=merko&hide_border=false&include_all_commits=true&count_private=true)
 
-![](https://streak-stats.demolab.com?user=Arthur-Muriuki&theme=merko&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur-Muriuki&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ---
 [![](https://visitcount.itsvg.in/api?id=Arthur-Muriuki&icon=0&color=0)](https://visitcount.itsvg.in)
 
