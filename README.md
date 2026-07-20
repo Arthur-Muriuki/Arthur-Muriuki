@@ -5,32 +5,20 @@ I craft scalable, maintainable **mobile and web applications** using clean archi
 I turn technical challenges into elegant, production-ready solutions.<br>
 
 ### Frontend & Mobile
-<img src="https://shields.io" /><br>
-<img src="https://shields.io" /><br>
-<img src="https://shields.io" /><br>
-<img src="https://shields.io" /><br>
-<img src="https://shields.io" /><br>
-<img src="https://shields.io" /><br>
-<img src="https://shields.io" />
+* **Core Framework:** React.js, Vite, Tailwind CSS
+* **Mobile Stack:** Native Android, Kotlin, Jetpack Compose
+* **Languages:** JavaScript, HTML5, CSS3
 
 ### Backend & APIs
-<img src="https://shields.io" /><br>
-<img src="https://shields.io" /><br>
-<img src="https://shields.io" /><br>
-<img src="https://shields.io" /><br>
-<img src="https://shields.io" />
+* **Python Ecosystem:** Django, Django Ninja, Django REST Framework
+* **PHP Ecosystem:** Laravel, RESTful API Design, Eloquent ORM
+* **Integrations:** M-Pesa Daraja API, Africa’s Talking API
 
 ### Databases & Testing
-<img src="https://shields.io" /><br>
-<img src="https://shields.io" /><br>
-<img src="https://shields.io" /><br>
-<img src="https://shields.io" />
+* **Databases:** MySQL, SQLite (Atomic Transactions & Optimization)
+* **Testing Systems:** PHPUnit, Automated Feature Testing, Postman
 
 ### Tools, Runtimes & Package Managers
-<img src="https://shields.io" /><br>
-<img src="https://shields.io" /><br>
-<img src="https://shields.io" /><br>
-<img src="https://shields.io" /><br>
-<img src="https://shields.io" /><br>
-<img src="https://shields.io" />
+* **Environments:** Node.js, npm, Composer, Gradle, Git/GitHub
+* **IDEs & Systems:** Android Studio, Linux/Terminal
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
